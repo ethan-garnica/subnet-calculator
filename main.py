@@ -1,8 +1,6 @@
 #Ethan Garnica
 #Subnet calculator finds first/last host, broadcast addr, subnet mask, usable hosts, valid addr, and subnet class
-# 10/1/2022
-# CST 412
-# subnet.py
+#Input should be 0.0.0.0/0 format
 
 
 
