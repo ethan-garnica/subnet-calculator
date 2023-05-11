@@ -5,3 +5,6 @@ This is a simple python program that runs in command line. It will ask the user 
 ### **How to use**
 All that is needed to use the program is the python file.
 
+### **License**
+This project is licensed under the GPL-3.0 License.
+
